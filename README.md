@@ -69,11 +69,11 @@ Here are some ideas to get you started:
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Pacheko123/news/pull/4) in [Pacheko123/news](https://github.com/Pacheko123/news)
-2. 🎉 Merged PR [#3](https://github.com/Pacheko123/news/pull/3) in [Pacheko123/news](https://github.com/Pacheko123/news)
-3. 🎉 Merged PR [#2](https://github.com/Pacheko123/news/pull/2) in [Pacheko123/news](https://github.com/Pacheko123/news)
-4. 🎉 Merged PR [#1](https://github.com/Pacheko123/news/pull/1) in [Pacheko123/news](https://github.com/Pacheko123/news)
-5. 💪 Opened PR [#9](https://github.com/Raymo111/kahoot-answer-bot/pull/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot) -->
+1. 🎉 Merged PR [#5](https://github.com/Pacheko123/news/pull/5) in [Pacheko123/news](https://github.com/Pacheko123/news)
+2. 🎉 Merged PR [#4](https://github.com/Pacheko123/news/pull/4) in [Pacheko123/news](https://github.com/Pacheko123/news)
+3. 🎉 Merged PR [#3](https://github.com/Pacheko123/news/pull/3) in [Pacheko123/news](https://github.com/Pacheko123/news)
+4. 🎉 Merged PR [#2](https://github.com/Pacheko123/news/pull/2) in [Pacheko123/news](https://github.com/Pacheko123/news)
+5. 🎉 Merged PR [#1](https://github.com/Pacheko123/news/pull/1) in [Pacheko123/news](https://github.com/Pacheko123/news)
 <!--END_SECTION:activity-->
 
 <!--
