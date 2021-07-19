@@ -69,11 +69,11 @@ Here are some ideas to get you started:
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Pacheko123/news/pull/11) in [Pacheko123/news](https://github.com/Pacheko123/news)
-2. 🎉 Merged PR [#10](https://github.com/Pacheko123/news/pull/10) in [Pacheko123/news](https://github.com/Pacheko123/news)
-3. 🎉 Merged PR [#9](https://github.com/Pacheko123/news/pull/9) in [Pacheko123/news](https://github.com/Pacheko123/news)
-4. 🎉 Merged PR [#8](https://github.com/Pacheko123/news/pull/8) in [Pacheko123/news](https://github.com/Pacheko123/news)
-5. 🎉 Merged PR [#7](https://github.com/Pacheko123/news/pull/7) in [Pacheko123/news](https://github.com/Pacheko123/news)
+1. 🎉 Merged PR [#12](https://github.com/Pacheko123/news/pull/12) in [Pacheko123/news](https://github.com/Pacheko123/news)
+2. 🎉 Merged PR [#11](https://github.com/Pacheko123/news/pull/11) in [Pacheko123/news](https://github.com/Pacheko123/news)
+3. 🎉 Merged PR [#10](https://github.com/Pacheko123/news/pull/10) in [Pacheko123/news](https://github.com/Pacheko123/news)
+4. 🎉 Merged PR [#9](https://github.com/Pacheko123/news/pull/9) in [Pacheko123/news](https://github.com/Pacheko123/news)
+5. 🎉 Merged PR [#8](https://github.com/Pacheko123/news/pull/8) in [Pacheko123/news](https://github.com/Pacheko123/news)
 <!--END_SECTION:activity-->
 
 <!--
